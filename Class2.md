@@ -42,9 +42,25 @@ $ grep -r 'where are you' .
 
 $ grep --help
 	# see all commands and options
+```
 
+Cool symbols
+- | --> pipe... pipe output from one command to input of another command
+- > --> sends the results to a file
+- >> --> appends to a file
+```
+$ grep -i 'lol' sms.tsv
+$ grep -i 'lol' sms.tsv | head
+	# now only see the first ten lines of texts with 'lol'
 
+$ grep -i 'lol' sms.tsv | ws -l
+	# number of lines that have 'lol'... more useful
 
+$ grep -i 'lol' sms.tsv > lol.txt
+	# can give it a path if you want
+
+$ grep -i 'hahaha' sms.tsv >> lol.txt
+	# appends! better than > because then you can't accidentally overwrite a file
 ```
 
 **GitHub -> Git -> GitHub**
