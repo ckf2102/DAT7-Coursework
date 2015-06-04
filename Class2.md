@@ -68,7 +68,6 @@ $ git push origin master  # pushes to the origin the master file
 - Committed changes (git commit)
 - Pushed changes to GitHub (git push)
 - Inspected along the way (git remote, git status, git log)
-
 - Can't really create a repo in just Git
 - Easier to create the repo in GitHub first
 
