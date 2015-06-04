@@ -6,13 +6,18 @@
 ```
 $ git clone <url of repo>
 $ cd RepoName
+```
 
+```
 $ git remote -v
-  # looking at remote aliases
-  # way of identifying where to sync
-  # remote alias: origin is a short cut for the <url> of your repo
+```
+- Looking at remote aliases
+- Way of identifying where to sync
+- Remote alias: origin is a short cut for the <url> of your repo
+- Clone automatically assumes you want origin remote alias
+- Remotes are repo-specific
   
-
+```
 # making changes to repo
 $ git status
   # shows status of commits
