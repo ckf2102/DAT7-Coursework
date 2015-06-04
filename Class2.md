@@ -1,7 +1,9 @@
 ## Class 2
 ### 3 June 2015
 
-**Cloning your repository from GitHub to your local machine (Git)**
+# GitHub -> Git -> GitHub
+
+*Cloning your repository from GitHub to your local machine (Git)*
 
 ```
 $ git clone <url of repo>
@@ -17,6 +19,9 @@ $ git remote -v
 - Clone automatically assumes you want origin remote alias
 - Remotes are repo-specific
   
+*Making changes, checking your status*
+
+
 ```
 # making changes to repo
 $ git status
