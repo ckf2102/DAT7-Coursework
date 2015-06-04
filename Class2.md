@@ -69,18 +69,15 @@ $ git push origin master  # pushes to the origin the master file
 - Pushed changes to GitHub (git push)
 - Inspected along the way (git remote, git status, git log)
 
-
 - Can't really create a repo in just Git
 - Easier to create the repo in GitHub first
 
 *Pulling Changes*
-Changes being made remotely
-- Reop changes have been made on local machine and then pushed
+- Repo changes have been made on local machine and then pushed
 - Git does not automatically pull changes from your repo
-
-Pulling Changes from GitHub
 - Need to manually pull changes from remote locations
 - Like syncing local files from Dropbox
+
 ```
 $ git pull origin master
 ```
