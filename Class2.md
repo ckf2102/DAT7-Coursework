@@ -1,7 +1,7 @@
 ## Class 2
 ### 3 June 2015
 
-# GitHub -> Git -> GitHub
+**GitHub -> Git -> GitHub**
 
 *Cloning your repository from GitHub to your local machine (Git)*
 
@@ -21,11 +21,21 @@ $ git remote -v
   
 *Making changes, checking your status*
 
-
 ```
-# making changes to repo
 $ git status
   # shows status of commits
+```
+
+- File statuses (possible color-coded):
+  - Untracked (red)
+  - Tracked and modified (red)
+  - Staged for committing (green)
+  - Committed
+
+```
+$ start readme.md
+  # opens the text editor straight from command line
+
 $ git add * 
   # adding files to be committed
   # can use specific file name
