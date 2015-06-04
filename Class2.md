@@ -1,6 +1,9 @@
 ## Class 2
 ### 3 June 2015
 
+- You clone repositories, not the files
+- You also clone the histories
+
 **GitHub -> Git -> GitHub**
 
 *Cloning your repository from GitHub to your local machine (Git)*
@@ -37,6 +40,7 @@ $ start readme.md
   # opens the text editor straight from command line
 ```
 
+*Pushing your edits from Git to GitHub*
 ```
 $ git add * 
 ```
@@ -47,10 +51,11 @@ $ git add *
 $ git commit -m "your message for commit"
 ```
 - You have now committed a change
+- NOTHING HAS HAPPENED ON GITHUB! Does not automatically sync
 
 ```
 $ git push origin master  # pushes to the origin the master file
 ```
+- Pushes the changes
+- Master is the name of the branch (name Master by default)
 
-- You clone repositories, not the files
-- You also clone the histories
