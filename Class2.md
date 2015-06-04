@@ -1,10 +1,56 @@
 ## Class 2
 ### 3 June 2015
 
-- You clone repositories, not the files
-- You also clone the histories
+**Command Lines**
+
+[New Features](https://github.com/justmarkham/DAT7/blob/master/code/02_command_line.md)
+
+- Working at the command line is a benefit if you're working with large files
+
+More fun stuff
+```
+$ head sms.tsv
+	# defaults to first 10 lines
+$ head -n5 sms.tsv
+	# only first five
+$ tail sms.tsv
+
+$ cat sms.tsv
+	# if you hit ctrl-c then it'll stop
+
+$ wc sms.tsv
+	# lines, words, characters
+	# Word Count
+$ wc -l sms.tsv
+	# just lines, can also use -w, -c
+
+$ find
+	# finding files by name
+	# will show the file path
+
+$ grep 'lol' sms.tsv
+	# case sensitive
+	# g stands for global! so best to direct it to a specific directory...
+	
+$ grep -i 'where are you' sms.tsv
+	# now not case sensitive
+	# ignore case
+
+$ grep -r 'where are you' .
+	# searches in the current directory (that's what the period is for)
+	# recursive
+
+$ grep --help
+	# see all commands and options
+
+
+
+```
 
 **GitHub -> Git -> GitHub**
+
+- You clone repositories, not the files
+- You also clone the histories
 
 *Cloning your repository from GitHub to your local machine (Git)*
 
@@ -83,3 +129,7 @@ $ git pull origin master
 - Generally we will only be doing pushes for our own repo
 - We will be pulling from the DAT7 repo
 - Clone is the initializing --> after that, you can just pull
+
+*Merge Conflicts*
+- Before you edit any DAT7 files, copy them elsewhere first and make edits to those copies
+	- If Kevin makes any edits while I'm making edits, there are going to be problems...
