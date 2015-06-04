@@ -25,7 +25,6 @@ $ git remote -v
 $ git status
   # shows status of commits
 ```
-
 - File statuses (possible color-coded):
   - Untracked (red)
     - You need to tell Git what you want to track
@@ -40,12 +39,18 @@ $ start readme.md
 
 ```
 $ git add * 
-  # adding files to be committed
-  # can use specific file name
-$ git push origin master  # pushes to the origin the master file
 ```
 - Add = track the specific (or all) files
+- Committing is a completely different step!!
 
+```
+$ git commit -m "your message for commit"
+```
+- You have now committed a change
+
+```
+$ git push origin master  # pushes to the origin the master file
+```
 
 - You clone repositories, not the files
 - You also clone the histories
