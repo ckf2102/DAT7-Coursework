@@ -59,3 +59,15 @@ $ git push origin master  # pushes to the origin the master file
 - Pushes the changes
 - Master is the name of the branch (name Master by default)
 
+*Quick Recap*
+- Created a repo on GitHub
+- Cloned repo to your local computer (git clone)
+	- Automatically setes up your "origin" remote
+- Made fle changes
+- Staged changes for committing (git add)
+- Committed changes (git commit)
+- Pushed changes to GitHub (git push)
+- Inspected along the way (git remote, git status, git log)
+
+- Can't really create a repo in just Git
+- Easier to create the repo in GitHub first
