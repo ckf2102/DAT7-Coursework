@@ -28,6 +28,7 @@ $ git status
 
 - File statuses (possible color-coded):
   - Untracked (red)
+    - You need to tell Git what you want to track
   - Tracked and modified (red)
   - Staged for committing (green)
   - Committed
@@ -35,12 +36,16 @@ $ git status
 ```
 $ start readme.md
   # opens the text editor straight from command line
+```
 
+```
 $ git add * 
   # adding files to be committed
   # can use specific file name
 $ git push origin master  # pushes to the origin the master file
 ```
+- Add = track the specific (or all) files
+
 
 - You clone repositories, not the files
 - You also clone the histories
