@@ -1,0 +1,553 @@
+8	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Cheese, Sour Cream]]	$8.49 
+9	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+12	1	Chicken Burrito	[[Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Pinto Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+15	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+21	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+24	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+28	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+30	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+33	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+36	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+37	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese]]	$8.75 
+43	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+50	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+51	1	Chicken Burrito	[[Tomatillo-Red Chili Salsa (Hot), Tomatillo-Green Chili Salsa (Medium)], [Rice, Pinto Beans, Cheese, Lettuce]]	$8.49 
+53	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+58	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+59	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Black Beans, Sour Cream, Guacamole]]	$10.98 
+68	2	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$17.50 
+69	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+72	1	Chicken Burrito	[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+73	1	Chicken Burrito	[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Fajita Veggies, Cheese, Guacamole, Lettuce]]	$10.98 
+75	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+75	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+76	1	Chicken Burrito	[[Tomatillo-Red Chili Salsa (Hot), Fresh Tomato Salsa (Mild)], [Rice, Black Beans, Cheese, Lettuce]]	$8.49 
+77	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+78	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), Lettuce]	$8.49 
+81	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream]]	$8.49 
+84	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+84	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Lettuce]]	$8.49 
+88	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+90	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+90	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+91	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+96	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+105	2	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$17.50 
+106	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]	$8.75 
+107	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+118	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+119	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+119	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+120	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]	$8.49 
+121	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream]]	$8.49 
+126	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+134	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+134	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+138	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]	$8.49 
+141	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+144	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+148	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+148	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+151	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]	$8.49 
+154	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+156	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.49 
+157	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+159	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce, Guacamole]]	$11.25 
+161	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+166	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese, Guacamole]]	$11.25 
+169	1	Chicken Burrito	[Fresh Tomato Salsa, [Cheese, Sour Cream]]	$8.75 
+170	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+172	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+173	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]	$8.49 
+174	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Lettuce, Guacamole]]	$11.25 
+184	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+192	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+194	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese]]	$8.49 
+195	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+195	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream]]	$8.75 
+195	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+196	1	Chicken Burrito	[Fresh Tomato Salsa, [Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+198	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+204	1	Chicken Burrito	[Fresh Tomato (Mild), [Guacamole, Lettuce, Rice, Fajita Veggies, Sour Cream, Cheese]]	$10.58 
+205	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+205	1	Chicken Burrito	[Fresh Tomato Salsa, Cheese]	$8.75 
+205	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+216	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+222	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Guacamole]]	$11.25 
+223	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+230	1	Chicken Burrito	[Tomatillo Red Chili Salsa]	$8.75 
+233	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+234	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Black Beans, Sour Cream, Cheese]]	$8.75 
+241	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Black Beans, Fajita Veggies, Cheese, Guacamole, Lettuce]]	$10.98 
+242	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+247	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+251	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+252	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream]]	$8.75 
+256	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+262	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Cheese, Guacamole]]	$11.25 
+263	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]	$8.75 
+265	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+272	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Sour Cream, Lettuce]]	$8.75 
+273	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+278	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+282	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Guacamole, Cheese]]	$11.25 
+283	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+288	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+295	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Fajita Vegetables, Black Beans, Cheese, Lettuce, Guacamole]]	$11.25 
+299	1	Chicken Burrito	[Fresh Tomato Salsa]	$8.75 
+300	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese]]	$8.75 
+303	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+305	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Guacamole, Cheese]]	$11.25 
+308	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+309	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Sour Cream, Cheese, Guacamole]]	$11.25 
+321	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Fajita Veggies, Lettuce]]	$8.49 
+324	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Lettuce, Guacamole]]	$11.25 
+325	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+326	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+327	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole, Lettuce]]	$11.25 
+329	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+334	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+336	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+340	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+344	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Sour Cream]]	$8.49 
+344	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Sour Cream]]	$8.49 
+353	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Lettuce]]	$8.75 
+354	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+370	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+378	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+387	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce]]	$8.75 
+390	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+392	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]	$8.49 
+396	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Sour Cream, Cheese, Guacamole]]	$11.25 
+404	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+405	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Pinto Beans, Cheese, Guacamole]]	$11.25 
+407	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Sour Cream, Cheese, Guacamole]]	$11.25 
+410	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans]]	$8.75 
+414	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium)], [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream]]	$8.49 
+420	1	Chicken Burrito	[Fresh Tomato Salsa, [Black Beans, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+423	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+424	1	Chicken Burrito	[[Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Cheese]]	$8.49 
+431	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+432	1	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$8.75 
+432	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese]]	$8.75 
+434	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Sour Cream, Lettuce]]	$8.75 
+435	1	Chicken Burrito	[[Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+438	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+448	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Lettuce]]	$8.75 
+453	1	Chicken Burrito	[Fresh Tomato (Mild), [Guacamole, Lettuce, Rice, Fajita Veggies, Cheese]]	$10.58 
+457	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Sour Cream, Lettuce]]	$8.75 
+462	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+462	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+464	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Lettuce, Guacamole]]	$11.25 
+466	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+470	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce]]	$8.75 
+476	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+477	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Lettuce]]	$8.49 
+479	1	Chicken Burrito	[Fresh Tomato (Mild), [Guacamole, Rice, Fajita Veggies, Sour Cream, Cheese]]	$10.58 
+479	1	Chicken Burrito	[Fresh Tomato (Mild), [Lettuce, Rice, Fajita Veggies, Sour Cream, Cheese]]	$8.19 
+481	2	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$17.50 
+482	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+487	1	Chicken Burrito	[Fresh Tomato Salsa, [Lettuce, Guacamole, Rice, Cheese, Fajita Vegetables, Sour Cream]]	$11.25 
+491	1	Chicken Burrito	[Fresh Tomato Salsa, [Cheese, Sour Cream, Lettuce]]	$8.75 
+491	1	Chicken Burrito	[Fresh Tomato Salsa, [Cheese, Sour Cream, Lettuce]]	$8.75 
+493	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+494	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Sour Cream]]	$8.49 
+497	2	Chicken Burrito	[Tomatillo Red Chili Salsa, [Cheese, Rice, Black Beans]]	$17.50 
+503	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+506	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Lettuce]]	$8.75 
+509	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Guacamole]]	$11.25 
+511	4	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce]]	$35.00 
+516	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Cheese, Lettuce]]	$8.49 
+517	1	Chicken Burrito	[Tomatillo Red Chili (Hot), [Lettuce, Rice, Cheese]]	$8.19 
+518	1	Chicken Burrito	[[Roasted Chili Corn Salsa (Medium), Fresh Tomato Salsa (Mild)], [Rice, Black Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+521	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+523	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]	$8.49 
+534	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+538	1	Chicken Burrito	[[Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+539	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese]]	$8.49 
+542	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Cheese, Lettuce]]	$8.49 
+544	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+546	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Sour Cream, Cheese, Guacamole]]	$11.25 
+551	1	Chicken Burrito	[Tomatillo Green Chili Salsa, Guacamole]	$11.25 
+556	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+569	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice]]	$8.75 
+571	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+572	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+577	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Pinto Beans, Guacamole, Lettuce]]	$11.25 
+581	2	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$17.50 
+582	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+585	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+586	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables]]	$8.75 
+586	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Fajita Vegetables, Sour Cream]]	$8.75 
+588	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+589	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+594	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+595	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+596	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+602	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+604	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+607	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+610	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+610	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+619	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+620	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+627	1	Chicken Burrito	[Fresh Tomato Salsa, [Guacamole, Lettuce, Sour Cream, Fajita Vegetables, Cheese, Rice]]	$11.25 
+629	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans]]	$8.75 
+629	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans]]	$8.75 
+635	1	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$8.75 
+636	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+636	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$8.75 
+646	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+650	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Fajita Vegetables]]	$8.75 
+652	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Sour Cream, Guacamole]]	$10.98 
+653	1	Chicken Burrito	[Fresh Tomato Salsa, [Guacamole, Cheese, Rice, Sour Cream, Fajita Vegetables, Lettuce]]	$11.25 
+662	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+663	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+669	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+670	2	Chicken Burrito	[Tomatillo Red Chili Salsa, Rice]	$17.50 
+671	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+672	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Fajita Veggies, Guacamole, Lettuce]]	$10.98 
+673	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+674	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese]]	$8.75 
+688	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Cheese, Guacamole]]	$11.25 
+688	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+691	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+691	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$8.75 
+691	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Guacamole]]	$11.25 
+691	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+692	2	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Lettuce, Guacamole, Sour Cream, Cheese, Rice, Black Beans]]	$21.96 
+695	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Cheese, Lettuce]]	$8.49 
+697	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+705	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Black Beans, Lettuce]]	$8.75 
+706	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+707	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Sour Cream, Guacamole, Lettuce]]	$11.25 
+712	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+716	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+717	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+717	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$8.75 
+728	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+732	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+736	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Lettuce]]	$8.75 
+737	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+739	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+743	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+746	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+747	2	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream]]	$17.50 
+758	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+761	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+761	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Sour Cream, Guacamole]]	$10.98 
+775	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Pinto Beans, Rice, Fajita Veggies, Sour Cream, Lettuce]]	$8.49 
+791	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Sour Cream, Guacamole]]	$11.25 
+795	1	Chicken Burrito	[Tomatillo Red Chili Salsa, Lettuce]	$8.75 
+800	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$17.50 
+816	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+817	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+820	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+821	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Rice, Cheese, Guacamole]]	$10.98 
+823	2	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$17.50 
+826	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$17.50 
+831	2	Chicken Burrito	[Fresh Tomato Salsa, [Lettuce, Rice, Black Beans, Cheese]]	$17.50 
+842	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+844	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+846	1	Chicken Burrito	[Fresh Tomato Salsa, [Cheese, Lettuce]]	$8.75 
+848	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+848	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Black Beans, Cheese, Sour Cream]]	$8.75 
+848	1	Chicken Burrito	[Fresh Tomato Salsa, [Pinto Beans, Cheese, Sour Cream]]	$8.75 
+849	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+856	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+856	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+859	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Rice, Guacamole]]	$10.98 
+860	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+862	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+863	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Rice, Cheese, Guacamole]]	$10.98 
+868	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese]]	$8.49 
+868	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+870	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+871	1	Chicken Burrito	[[Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+872	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot)], [Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+876	1	Chicken Burrito	[Roasted Chili Corn Salsa]	$8.75 
+880	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream]]	$8.49 
+881	1	Chicken Burrito	[Fresh Tomato Salsa, [Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+881	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans]]	$8.75 
+888	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+888	1	Chicken Burrito	[Fresh Tomato Salsa, [Black Beans, Cheese, Sour Cream]]	$8.75 
+890	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+891	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans]]	$8.75 
+893	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Sour Cream, Guacamole, Lettuce]]	$11.25 
+895	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Cheese, Lettuce]]	$8.49 
+901	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+908	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+908	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+911	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+917	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+918	1	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$8.75 
+919	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+920	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+924	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+925	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+926	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+926	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+926	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+926	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+935	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+937	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+940	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+941	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+942	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream]]	$8.49 
+949	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese]]	$8.75 
+951	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole]]	$11.25 
+957	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+957	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Guacamole]]	$11.25 
+959	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Cheese, Lettuce]]	$8.49 
+961	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice]]	$8.75 
+972	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+975	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+977	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Sour Cream, Guacamole]]	$10.98 
+979	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Guacamole]]	$11.25 
+987	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Guacamole, Sour Cream, Rice, Fajita Vegetables, Lettuce]]	$11.25 
+989	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+993	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Cheese, Lettuce]]	$8.49 
+994	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Guacamole, Lettuce]]	$10.98 
+1005	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1006	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1006	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1006	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole]]	$11.25 
+1019	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1022	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+1026	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1027	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$17.50 
+1030	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1031	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$17.50 
+1037	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1039	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Rice, Black Beans, Fajita Veggies, Guacamole]]	$10.98 
+1040	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Lettuce]]	$8.49 
+1046	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Lettuce]]	$8.49 
+1048	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$17.50 
+1050	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$8.75 
+1051	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1052	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Guacamole]]	$11.25 
+1052	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1053	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1060	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Rice, Fajita Veggies, Lettuce]]	$8.49 
+1063	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+1065	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Cheese, Lettuce]]	$8.49 
+1065	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1068	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese]]	$8.75 
+1069	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Guacamole]]	$11.25 
+1070	1	Chicken Burrito	[Fresh Tomato Salsa, [Sour Cream, Cheese, Guacamole, Rice]]	$11.25 
+1071	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+1071	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1073	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1080	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1081	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1082	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Guacamole, Lettuce]]	$11.25 
+1084	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1086	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1087	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1090	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice]]	$8.75 
+1092	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Sour Cream, Cheese, Guacamole]]	$11.25 
+1095	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1099	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1099	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Pinto Beans, Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1102	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1103	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream]]	$8.75 
+1108	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1109	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1111	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+1120	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1125	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+1125	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+1126	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+1137	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1139	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Guacamole, Lettuce]]	$11.25 
+1141	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+1145	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans]]	$8.75 
+1149	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Cheese, Guacamole]]	$10.98 
+1154	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1163	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1167	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1171	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Guacamole]]	$11.25 
+1172	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1174	2	Chicken Burrito	[Fresh Tomato Salsa, [Cheese, Rice, Black Beans, Lettuce]]	$17.50 
+1183	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$17.50 
+1185	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1190	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+1204	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Tomatillo-Red Chili Salsa (Hot)], [Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+1214	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Fajita Vegetables, Sour Cream, Cheese, Guacamole]]	$11.25 
+1235	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1242	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1244	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese]]	$8.75 
+1245	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1246	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1247	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Sour Cream, Cheese, Rice]]	$8.75 
+1248	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Guacamole]]	$11.25 
+1251	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1252	1	Chicken Burrito	[[Rice, Cheese]]	$8.19 
+1266	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Lettuce]]	$8.75 
+1267	1	Chicken Burrito	[[Tomatillo-Red Chili Salsa (Hot), Tomatillo-Green Chili Salsa (Medium)], [Rice, Black Beans, Cheese, Lettuce]]	$8.49 
+1293	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1295	2	Chicken Burrito	[Fresh Tomato Salsa, [Sour Cream, Cheese, Pinto Beans, Rice]]	$17.50 
+1304	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Guacamole, Lettuce]]	$11.25 
+1304	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole]]	$11.25 
+1308	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1310	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1320	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Sour Cream, Lettuce]]	$8.75 
+1322	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Guacamole, Cheese, Sour Cream]]	$11.25 
+1323	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1329	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+1330	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Tomatillo-Green Chili Salsa (Medium), Roasted Chili Corn Salsa (Medium)], [Pinto Beans, Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+1334	2	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$21.96 
+1335	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Pinto Beans, Rice, Fajita Veggies, Cheese, Sour Cream]]	$8.49 
+1341	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1341	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Lettuce]]	$8.75 
+1342	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Lettuce, Cheese]]	$8.75 
+1352	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1353	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1354	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Pinto Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1355	2	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream]]	$16.98 
+1358	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Rice, Black Beans, Cheese, Lettuce]]	$8.49 
+1360	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1364	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Guacamole, Cheese, Sour Cream]]	$11.25 
+1365	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Cheese, Lettuce, Rice, Pinto Beans]]	$8.75 
+1370	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1371	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese]]	$8.75 
+1376	1	Chicken Burrito	[[Fresh Tomato Salsa (Mild), Roasted Chili Corn Salsa (Medium)], [Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+1378	1	Chicken Burrito	[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Cheese, Lettuce]]	$8.49 
+1380	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1385	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+1386	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+1387	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1389	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Lettuce]]	$8.75 
+1392	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1392	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1393	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1393	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Black Beans, Pinto Beans, Cheese, Lettuce]]	$8.75 
+1402	1	Chicken Burrito	[Roasted Chili Corn Salsa, Fajita Vegetables]	$8.75 
+1402	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Sour Cream]]	$8.75 
+1414	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Sour Cream]]	$8.75 
+1415	1	Chicken Burrito	[[Rice, Cheese]]	$8.19 
+1415	1	Chicken Burrito	[Fresh Tomato (Mild), [Guacamole, Rice, Sour Cream, Cheese]]	$10.58 
+1416	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Cheese, Lettuce, Pinto Beans, Rice]]	$8.75 
+1418	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+1423	1	Chicken Burrito	[[Lettuce, Fajita Veggies, Rice]]	$8.19 
+1425	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1429	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+1431	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$8.75 
+1433	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Pinto Beans, Rice, Cheese, Sour Cream]]	$8.49 
+1434	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Fajita Veggies, Cheese, Sour Cream, Guacamole]]	$10.98 
+1434	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream]]	$8.49 
+1440	1	Chicken Burrito	[Tomatillo-Green Chili Salsa (Medium), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1443	4	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$35.00 
+1448	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1449	2	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Fajita Veggies, Cheese]]	$16.98 
+1453	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1454	3	Chicken Burrito	[Fresh Tomato Salsa]	$26.25 
+1454	3	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$26.25 
+1457	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+1471	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$17.50 
+1478	2	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Sour Cream, Cheese, Black Beans, Rice]]	$16.98 
+1480	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Guacamole, Lettuce, Rice, Fajita Vegetables, Sour Cream]]	$11.25 
+1482	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+1483	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Cheese]]	$8.75 
+1484	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Black Beans, Rice, Cheese, Sour Cream]]	$8.49 
+1491	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice]]	$8.49 
+1492	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1501	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1506	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1507	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1507	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1509	2	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese]]	$17.50 
+1510	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+1511	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese]]	$8.75 
+1511	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1513	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Fajita Vegetables, Black Beans, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+1519	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Cheese, Sour Cream, Guacamole, Lettuce]]	$10.98 
+1533	2	Chicken Burrito	[[Lettuce, Rice]]	$16.38 
+1533	1	Chicken Burrito	[Rice]	$8.19 
+1534	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1534	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1536	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1537	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce]]	$8.75 
+1541	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Rice, Fajita Veggies, Cheese, Lettuce]]	$8.49 
+1544	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Lettuce, Guacamole]]	$11.25 
+1545	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1547	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+1555	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Fajita Veggies, Cheese, Sour Cream]]	$8.49 
+1556	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1562	1	Chicken Burrito	[[Roasted Chili Corn Salsa (Medium), Tomatillo-Red Chili Salsa (Hot)], [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1564	1	Chicken Burrito	[Fresh Tomato (Mild), [Black Beans, Rice, Sour Cream, Cheese]]	$8.19 
+1565	1	Chicken Burrito	[Roasted Chili Corn Salsa (Medium), [Rice, Fajita Veggies, Cheese, Sour Cream, Lettuce]]	$8.49 
+1566	1	Chicken Burrito	[Fresh Tomato Salsa (Mild), [Black Beans, Rice, Cheese, Sour Cream, Lettuce]]	$8.49 
+1570	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$8.75 
+1572	2	Chicken Burrito	[Tomatillo Red Chili Salsa, [Cheese, Black Beans, Rice]]	$17.50 
+1573	1	Chicken Burrito	[Fresh Tomato Salsa, [Sour Cream, Cheese, Rice, Black Beans]]	$8.75 
+1580	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Rice, Fajita Veggies, Cheese, Sour Cream]]	$8.49 
+1583	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1586	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]	$8.75 
+1586	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+1586	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Pinto Beans, Guacamole, Lettuce]]	$11.25 
+1586	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Lettuce]]	$8.75 
+1587	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Guacamole]]	$11.25 
+1588	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1589	1	Chicken Burrito	[Tomatillo-Red Chili Salsa (Hot), [Black Beans, Rice, Cheese, Sour Cream, Guacamole]]	$10.98 
+1590	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1598	1	Chicken Burrito	[Tomatillo Green Chili (Medium), [Lettuce, Black Beans, Rice, Sour Cream, Cheese]]	$8.19 
+1598	1	Chicken Burrito	[Roasted Chili Corn (Medium), [Lettuce, Black Beans, Rice, Sour Cream, Cheese]]	$8.19 
+1599	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Lettuce]]	$8.75 
+1610	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+1615	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1626	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1628	1	Chicken Burrito	[[Lettuce, Rice, Fajita Veggies]]	$8.19 
+1630	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1640	2	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream]]	$17.50 
+1648	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Guacamole]]	$11.25 
+1652	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+1659	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1660	2	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$17.50 
+1662	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Pinto Beans, Sour Cream, Cheese]]	$8.75 
+1663	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1665	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+1667	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Sour Cream, Guacamole]]	$11.25 
+1669	1	Chicken Burrito	[Fresh Tomato Salsa, Rice]	$8.75 
+1681	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Pinto Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1684	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Cheese, Lettuce]]	$8.75 
+1685	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Cheese, Sour Cream, Lettuce]]	$8.75 
+1696	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1698	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1699	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1701	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1703	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1703	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1705	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1707	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream, Lettuce]]	$8.75 
+1707	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Cheese, Sour Cream]]	$8.75 
+1714	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Pinto Beans, Cheese, Sour Cream]]	$8.75 
+1724	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Guacamole]]	$11.25 
+1730	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Black Beans, Cheese, Guacamole, Lettuce]]	$11.25 
+1737	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Guacamole]]	$11.25 
+1738	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Fajita Vegetables, Black Beans, Lettuce]]	$8.75 
+1741	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Sour Cream, Cheese, Lettuce]]	$8.75 
+1743	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1746	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1747	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1757	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Pinto Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1761	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Lettuce]]	$8.75 
+1761	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1761	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Fajita Vegetables, Cheese]]	$8.75 
+1772	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Sour Cream, Cheese, Lettuce, Guacamole]]	$11.25 
+1775	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Pinto Beans, Cheese]]	$8.75 
+1776	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice]]	$8.75 
+1778	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese]]	$8.75 
+1785	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice]]	$8.75 
+1787	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1798	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Guacamole, Lettuce, Rice, Fajita Vegetables, Sour Cream]]	$11.25 
+1799	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Rice, Black Beans, Cheese]]	$8.75 
+1800	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Sour Cream, Cheese, Lettuce]]	$8.75 
+1801	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Fajita Vegetables, Rice, Cheese, Lettuce]]	$8.75 
+1802	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1806	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice]]	$8.75 
+1811	1	Chicken Burrito	[Tomatillo Green Chili Salsa, [Fajita Vegetables, Rice, Black Beans, Cheese, Sour Cream, Guacamole, Lettuce]]	$11.25 
+1812	1	Chicken Burrito	[Fresh Tomato Salsa, [Rice, Black Beans, Cheese, Sour Cream, Lettuce]]	$8.75 
+1812	1	Chicken Burrito	[Tomatillo Red Chili Salsa, [Rice, Cheese, Guacamole, Lettuce]]	$11.25 
+1816	1	Chicken Burrito	[Roasted Chili Corn Salsa, [Pinto Beans, Cheese, Sour Cream]]	$8.75 
+1817	1	Chicken Burrito	[Fresh Tomato Salsa, [Fajita Vegetables, Rice]]	$8.75 
