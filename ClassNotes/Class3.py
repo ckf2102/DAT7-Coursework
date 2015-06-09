@@ -118,3 +118,37 @@ with open('airlines.csv', 'rU') as f:
 header = data[0]
 data = data[1:]
     # slices the list and overwrites the original list
+
+a = data[1][0][-1]
+if a == "*":
+    print "good"
+else:
+    print "bad"
+
+"""
+Exercises
+"""
+
+# be aware...
+# if you have for x in data
+# each x is a LIST TYPE
+    # so doing data[x] will not work
+# if you have for x in range(0,len(data))
+# each x is an int
+    # so doing data[x] will work
+
+# Exercise 1
+
+# Exercise 2
+# look up strip function
+
+clean_airline = []
+for x in data:
+    end_loc = len(x[0])
+    if x[0][-1]=="*":
+        clean_airline.append(x[0][0:end_loc-1])
+    else:
+        clean_airline.append(x[0])
+
+
+        
