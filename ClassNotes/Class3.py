@@ -119,14 +119,23 @@ header = data[0]
 data = data[1:]
     # slices the list and overwrites the original list
 
-a = data[1][0][-1]
-if a == "*":
-    print "good"
-else:
-    print "bad"
 
 """
-Exercises
+EXERCISES:
+
+1. Create a list containing the average number of incidents per year for each airline.
+Example for Aer Lingus: (2 + 0)/30 = 0.07
+Expected output: [0.07, 2.73, 0.23, ...]
+
+2. Create a list of airline names (without the star).
+Expected output: ['Aer Lingus', 'Aeroflot', 'Aerolineas Argentinas', ...]
+
+3. Create a list (of the same length) that contains 1 if there's a star and 0 if not.
+Expected output: [0, 1, 0, ...]
+
+4. BONUS: Create a dictionary in which the key is the airline name (without the star)
+   and the value is the average number of incidents.
+Expected output: {'Aer Lingus': 0.07, 'Aeroflot': 2.73, ...}
 """
 
 # be aware...
@@ -139,16 +148,20 @@ Exercises
 
 # Exercise 1
 
+for x in range(0,len(header)):
+    print str(x) + " - " + header[x]
+
+incident = []
+for row in data:
+    incident.append(round((int(row[2])+int(row[5]))/float(30),2))
+
+# using list comprehension
+incident2 = [round((int(row[2])+int(row[5]))/float(30),2) for row in data]
+
 # Exercise 2
 # look up strip function
 
-clean_airline = []
-for x in data:
-    end_loc = len(x[0])
-    if x[0][-1]=="*":
-        clean_airline.append(x[0][0:end_loc-1])
-    else:
-        clean_airline.append(x[0])
+
 
 
         
