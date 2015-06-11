@@ -161,7 +161,28 @@ incident2 = [round((int(row[2])+int(row[5]))/float(30),2) for row in data]
 # Exercise 2
 # look up strip function
 
+new_name =[]
+for row in data:
+    if row[0][-1]=="*":
+        new_name.append(row[0].strip("*"))
+    else:
+        new_name.append(row[0])
+    
+# using list comprehension bc I forgot how strip worked
+new_name2 = [row[0].strip("*") for row in data]
 
+# Exercise 3
 
+star = []
+
+for row in data:
+    if row[0][-1]=="*":
+        star.append(1)
+    else:
+        star.append(0)
+
+# Exercise 4
+
+airline_incidents = dict(zip(new_name2, incident2))
 
         
