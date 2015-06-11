@@ -70,13 +70,18 @@ Exercise 1
 '''
 
 drinks = pd.read_table('drinks.csv', sep=',')
+    # there's also a pd.read_csv('csv file name') but read_table is all inclusive
+
+# broadcasting an operation throughout a series
+drinks.beer_servings * 10
+    # will multiply everything by 10
 
 # calculate avg beer_savings for entire dataset
 drinks.beer_servings.mean()
 
 # count num of occurrences of each 'continent' and see if it looks correct
 drinks.continent.value_counts()
-
+    # missing north america bc for some reason the string 'NA' is read in as NA()
 
 
 
