@@ -242,7 +242,7 @@ Exercise
 # read ufo.csv into a DataFrame called 'ufo'
 ufo = pd.read_table('ufo.csv', sep = ",")
 
-ufo_cols = ["city", "colors", "shape", "state", "time"]
+ufo_cols = ["city", "colors", "u_shape", "state", "time"]
 ufo.columns = ufo_cols
 
 # check the shape of the DataFrame
@@ -253,14 +253,27 @@ ufo.colors.value_counts().head(3)
 
 # rename any columns with spaces so that they don't contain spaces
 
+# see above
+
 # for reports in VA, what's the most common city?
+
+ufo[ufo.state == "VA"].city.value_counts().head(1)
 
 # print a DataFrame containing only reports from Arlington, VA
 
+ufo[(ufo.state == "VA") & (ufo.city == "Arlington")]
+
 # count the number of missing values in each column
+
+ufo.city.isnull().sum()
+ufo.colors.isnull().sum()
+ufo.u_shape.isnull().sum()
+ufo.state.isnull().sum()
+ufo.time.isnull().sum()
 
 # how many rows remain if you drop all rows with any missing values?
 
+ufo = ufo.dropna()
 
 
 
