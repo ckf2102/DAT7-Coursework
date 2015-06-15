@@ -96,10 +96,10 @@ Optional: Learn how to use 'defaultdict' to simplify your code.
 chips_str = "Chips"
 chips = []
 
-for item in data:
-    if chips_str in item[2]:
-        for y in range(0,int(item[1])):
-            chips.append(item[2])
+for x in data:
+    if chips_str in x[2]:
+        for y in range(0,int(x[1])):
+            chips.append(x[2])
 
 from collections import defaultdict
 
@@ -109,4 +109,49 @@ for chip in chips:
     
 '''
 BONUS: Think of a question about this data that interests you, and then answer it!
+
+For all chips ordered (any kind), how many of those were part of multi-item orders?
 '''
+
+orders = [x[0] for x in data]
+
+order_count = defaultdict(int)
+for order in orders:
+    order_count[order] += 1
+
+chip_orders = []
+
+for x in data:
+    if chips_str in x[2]:
+        chip_orders.append(x[0])
+        
+multi_orders = []
+
+for x in chip_orders:
+    if order_count[x] > 1:
+        multi_orders.append(x)
+
+# turns out no one just orders chips at chipotle
+
+"""
+let's try the same but with Canned Soft Drinks, Canned Soda, or 6 pack
+"""
+
+search_str3 = "6 Pack Soft Drink"
+
+soda_orders = []
+
+for x in data:
+    if (search_str1 in x[2]) or (search_str2 in x[2]) or (search_str3 in x[2]):
+        soda_orders.append(x[0])
+
+multi_soda_orders = []
+
+for x in soda_orders:
+    if order_count[x] > 1:
+        multi_soda_orders.append(x)
+
+len(soda_orders)
+len(multi_soda_orders)
+
+# again, turns out no one orders just drinks at chipotle
