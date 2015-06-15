@@ -44,20 +44,25 @@ for x in range(1, len(data)):
 
 total_order.append(sum_items)
 
-sum(total_order)/len(total_order)
+print "the average price of an order is $" + str(round(sum(total_order)/len(total_order),2))
 
+# this was the hardest one for me. i have a feeling this is not the simplest way.
 
 '''
 INTERMEDIATE LEVEL
 PART 4: Create a list (or set) of all unique sodas and soft drinks that they sell.
 Note: Just look for 'Canned Soda' and 'Canned Soft Drink', and ignore other drinks like 'Izze'.
 '''
+search_str1 = "Canned Soda"
+search_str2 = "Canned Soft Drink"
 
 soda_list = []
 
 for x in data:
-    if x[3] == 'soft drink':
+    if (search_str1 in x[2]) or (search_str2 in x[2]):
+        soda_list.append(x[3])
         
+set(soda_list)
 
 '''
 ADVANCED LEVEL
@@ -66,6 +71,17 @@ Note: Let's ignore the 'quantity' column to simplify this task.
 Hint: Think carefully about the easiest way to count the number of toppings!
 '''
 
+burrito_str = "Burrito"
+
+sum_toppings = 0
+sum_burritos = 0
+
+for x in data:
+    if burrito_str in x[2]:
+        sum_toppings = sum_toppings + x[3].count(",") + 1
+        sum_burritos = sum_burritos + 1
+
+print "the average number of toppings is " + str(float(sum_toppings)/sum_burritos)
 
 
 '''
@@ -77,8 +93,20 @@ Note: Please take the 'quantity' column into account!
 Optional: Learn how to use 'defaultdict' to simplify your code.
 '''
 
+chips_str = "Chips"
+chips = []
 
+for item in data:
+    if chips_str in item[2]:
+        for y in range(0,int(item[1])):
+            chips.append(item[2])
 
+from collections import defaultdict
+
+chip_count = defaultdict(int)
+for chip in chips:
+    chip_count[chip] += 1
+    
 '''
 BONUS: Think of a question about this data that interests you, and then answer it!
 '''
