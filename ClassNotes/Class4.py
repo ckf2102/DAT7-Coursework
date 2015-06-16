@@ -98,7 +98,7 @@ users[young_bool]               # and use the series to filter the rows
 users[users.age < 20]           # same as above, combines the steps
     # need to make sure that size is identical
     # think of bracket of generalized operator for filtering out stuff
-    # you've now created another series
+    # you've now created another data frame
 
 # data frame = rows and columns
 # series = just one column! will only return # of rows
@@ -234,15 +234,19 @@ drinks.dropna(how='all')
 drinks.continent.fillna(value="NA", inplace = True)
     # fill in with 'NA'
 
+# OR THIS WHOLE TIME...
+drinks = pd.read_csv('drinks.csv', header=0, names=drink_cols, na_filter = False)
+
 '''
 Exercise
 (complete before Monday)
 '''
 
 # read ufo.csv into a DataFrame called 'ufo'
+ufo = pd.read_csv('ufo.csv')
 ufo = pd.read_table('ufo.csv', sep = ",")
 
-ufo_cols = ["city", "colors", "u_shape", "state", "time"]
+ufo_cols = ["city", "colors", "shape_report", "state", "time"]
 ufo.columns = ufo_cols
 
 # check the shape of the DataFrame
@@ -250,10 +254,13 @@ ufo.shape
 
 # what are the three most common colors reported?
 ufo.colors.value_counts().head(3)
+ufo.colors.value_counts()[:3]
+    # another way to print the top three
 
 # rename any columns with spaces so that they don't contain spaces
 
-# see above
+# use a list comprehension to change the column titles
+ufo_col = [col.replace(' ','_') for col in ufo.columns]
 
 # for reports in VA, what's the most common city?
 
@@ -265,15 +272,83 @@ ufo[(ufo.state == "VA") & (ufo.city == "Arlington")]
 
 # count the number of missing values in each column
 
-ufo.city.isnull().sum()
-ufo.colors.isnull().sum()
-ufo.u_shape.isnull().sum()
-ufo.state.isnull().sum()
-ufo.time.isnull().sum()
+ufo.isnull().sum()  
+    # sums down the 0 axis
 
 # how many rows remain if you drop all rows with any missing values?
 
-ufo = ufo.dropna()
+ufo.dropna().shape[0]
+
+
+"""
+Picking up where we left off, in Class 5
+"""
+
+"""
+Split-Apply-Combine
+"""
+
+# SAC very very useful
+# gives you ability to see how numeric values differ across groups
+
+# for each continent, calculate the mean beer servings
+drinks.groupby('continent').beer.mean()
+    # .groupby('field name') --> split on the values in this field name
+    # beer.mean() --> apply
+    # combine is just implicit
+    # output is a series with an index (what you group by)
+
+drinks[drinks.continent == "AF"].beer.mean()
+    # just for Africa
+
+# for each continent, calculate the mean of all numeric columns
+drinks.groupby('continent').mean()
+    # can get a lot of information really quickly
+    # however, doesn't tell you how many countries (records) are used for
+        # each continent (weighting)
+
+# for each continent, describe the beer servings
+drinks.groupby("continent").beer.describe()
+    # can see a lot of information, can be overwhelming
+
+# for each continent, describe all numeric columns
+drinks.groupby('continent').describe()
+
+# similar to above, output a DataFrame and can be customizeed
+drinks.groupby('continent').beer.agg(['count', 'mean', 'min', 'max'])
+    # short for aggregate
+    # have to pass in as a list of strings, can be hard to remember what they do
+drinks.groupby('continent').beer.agg(['count', 'mean', 'min', 'max']).sort('mean')
+
+# for each continent, count number of occurences
+drinks.continent.value_counts()
+drinks.groupby('continent').continent.count()
+    # still outputs a series
+    # value_counts is a groupby
+
+"""
+Exercise 4
+"""
+
+# for each occupation in 'users', count the number of occurrences
+
+users.occupation.value_counts()
+users.groupby('occupation').occupation.count()
+
+# for each occupation, calculate the mean age
+
+users.groupby('occupation').age.mean()
+
+# for each occupation, calculate the minimum and maximum ages
+
+users.groupby('occupation').age.agg(['min', 'max'])
+
+# for each combination of occupation and gender, calculate the mean age
+
+users.groupby(['occupation', 'gender']).age.mean()
+users.groupby(['gender', 'occupation']).age.mean()
+    # order matters!
+
 
 
 
