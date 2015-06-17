@@ -41,9 +41,11 @@ INTERMEDIATE LEVEL
 
 # count how many movies have each of the content ratings
 
-
+movies.content_rating.value_counts()
 
 # use a visualization to display that same data, including a title and x and y labels
+
+movies.content_rating.value_counts().plot(kind='bar')
 
 # convert the following content ratings to "UNRATED": NOT RATED, APPROVED, PASSED, GP
 
