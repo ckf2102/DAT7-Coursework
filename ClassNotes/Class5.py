@@ -143,8 +143,47 @@ ufo.Year.value_counts().sort_index().plot()
 drinks.continent.value_counts().plot()
 
 
+'''
+Grouped Box Plots and Grouped Histograms: show one plot for each group
+'''
 
+drinks.beer.plot(kind='box')        # box
 
+drinks.beer.plot(kind='hist', bins = 10)       # histogram
 
+# boxplot of beer servings grouped by continent
+drinks.groupby('continent').beer.describe()         # numerical version
+drinks.boxplot(column='beer', by='continent')       # visual version
+    # boxplot needs a DataFrame, not a Series
+    # boxplots will always return the same scale
 
+# histogram of beer servings grouped by continent
+drinks.beer.hist(by=drinks.continent)
+    # need to name drinks again
+    # adjusts each axis for each histogram individually and can be misleading
 
+# fixes the weird axis
+drinks.beer.hist(by=drinks.continent, sharex = True, sharey = True)
+
+# changing the layout of the graphs
+drinks.beer.hist(by=drinks.continent, layout=(2,3))
+
+# see all numerical data by continent
+drinks.boxplot(by='continent')
+
+'''
+(didn't go over in class)
+Assorted Functionality
+'''
+
+# saving a plot to a file: run all four lines at once
+drinks.beer.plot(kind='hist', bins=20, title='Histogram of Beer Servings')
+plt.xlabel('Beer Servings')
+plt.ylabel('Frequency')
+plt.savefig('beer_histogram.png')
+
+# list available plot styles
+plt.style.available
+
+# change to a different style
+plt.style.use('ggplot')
