@@ -50,7 +50,7 @@ iris.boxplot(column = 'p_length', by = 'iclass')
 
 iris.boxplot(column = 'p_width', by = 'iclass')
 
-iris.groupby('iclass').plot(kind='box', sharey = True)
+iris.groupby('iclass').plot(kind='box')
 
 iris.p_width.hist(by=iris.iclass, sharex = True, sharey = True, layout = (3,1))
 iris.p_length.hist(by=iris.iclass, sharex = True, sharey = True, layout = (3,1))
@@ -65,6 +65,7 @@ Task 4: Write down a set of rules that coule be used to predict species based on
 # Rule 1: if sepal width > petal length --> setosa
 # Rule 2: if petal width < 1 --> setosa
 
+print iris.iclass
 
 """
 Bonus: Define function that accepts a row of data and returns a predicted species
