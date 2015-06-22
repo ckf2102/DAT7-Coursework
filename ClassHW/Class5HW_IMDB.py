@@ -53,10 +53,7 @@ plt.ylabel('Frequency (# of movies)')
 
 # convert the following content ratings to "UNRATED": NOT RATED, APPROVED, PASSED, GP
 
-# ufo_col = [col.replace(' ','_') for col in ufo.columns]
-
 unrated_dict = {'NOT RATED':'UNRATED', 'APPROVED':'UNRATED', 'PASSED':'UNRATED', 'GP':'UNRATED'}
-
 movies['content_rating'].replace(unrated_dict, inplace = True)
 
 # convert the following content ratings to "NC-17": X, TV-MA
@@ -102,12 +99,24 @@ movies.boxplot(column = "star_rating", by = "content_rating")
 
 # determine the top rated movie (by star rating) for each genre
 
-movies.groupby('genre')['title'].star_rating.agg(['max'])
-
+movies.groupby('genre')[['title','star_rating']].max()
 
 # check if there are multiple movies with the same title, and if so, determine if they are actually duplicates
 
+movies[movies.title.duplicated()].title
+
+movies[movies.title == 'The Girl with the Dragon Tattoo']   # not a duplicate
+movies[movies.title == 'Dracula']   # not a duplicate
+movies[movies.title == 'Les Miserables']    # not a duplicate
+movies[movies.title == 'True Grit']     # not a duplicate
+
 # calculate the average star rating for each genre, but only include genres with at least 10 movies
+
+genre_rating = movies.groupby('genre').star_rating.agg(['count', 'mean'])
+genre_cols = ['num_movies', 'avg']
+genre_rating.columns = genre_cols
+
+genre_rating[genre_rating.num_movies >= 10]
 
 '''
 BONUS
