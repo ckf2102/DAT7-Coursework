@@ -69,6 +69,9 @@ movies.isnull().sum()
 
 movies[movies.content_rating.isnull()]
 
+# I've never actually seen any of these movies so I just
+# used what's online...
+
 movies.update(movies[movies.title == 'True Grit'].fillna("PG-13"))
 movies.content_rating.fillna("PG", inplace = True)
 
@@ -113,6 +116,7 @@ movies[movies.title == 'True Grit']     # not a duplicate
 # calculate the average star rating for each genre, but only include genres with at least 10 movies
 
 genre_rating = movies.groupby('genre').star_rating.agg(['count', 'mean'])
+
 genre_cols = ['num_movies', 'avg']
 genre_rating.columns = genre_cols
 
