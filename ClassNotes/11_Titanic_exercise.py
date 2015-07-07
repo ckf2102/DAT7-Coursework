@@ -23,8 +23,18 @@ feature_cols = ['Pclass', 'Parch']
 X = data[feature_cols]
 y = data.Survived
 
-import numpy as np
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
 from sklearn.cross_validation import train_test_split
-from sklearn import metrics
 
+logreg = LogisticRegression(C=1e9)
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=1)
+
+logreg.fit(X_train,y_train)
+
+print logreg.intercept_
+zip(feature_cols, logreg.coef_[0])
+
+y_pred_class = logreg.predict(X_test)
+from sklearn import metrics
+print metrics.accuracy_score(y_test, y_pred_class)
